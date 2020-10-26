@@ -1,0 +1,1 @@
+java -cp target\finagle-java-example-0.0.1-SNAPSHOT.jar;target\lib\* com.github.ralgond.fje.ZkUserServiceServer
